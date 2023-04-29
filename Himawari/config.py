@@ -54,7 +54,7 @@ class Config(object):
     STRICT_GBAN=True
     API_ID=18814548 ##api id from my.telegram.org
     APP_ID=28823350 #same as API_ID
-    API_HASH="48179d153f3fbc9c4ee9024ab6647ded"" ##api hash from my.telegram.org
+    API_HASH="48179d153f3fbc9c4ee9024ab6647ded" ##api hash from my.telegram.org
     APP_HASH="5114c0d76465845e05a32cd9072109c1" #same as API_HASH
     BL_CHATS=[1] #chats to be blacklisted
     MONGO_DB_URL="mongodb+srv://mesdsdwhidsdsgodb.net/?retryWrites=true&w=majority" ##mongo database link (necessary)
